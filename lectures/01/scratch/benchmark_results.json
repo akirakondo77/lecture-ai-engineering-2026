@@ -1,0 +1,362 @@
+[
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "短_LoRA",
+    "run": 1,
+    "elapsed_sec": 2.824,
+    "prompt_tokens": 7,
+    "output_tokens": 589,
+    "total_tokens": 596,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "短_LoRA",
+    "run": 2,
+    "elapsed_sec": 7.128,
+    "prompt_tokens": 7,
+    "output_tokens": 698,
+    "total_tokens": 705,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "短_LoRA",
+    "run": 3,
+    "elapsed_sec": 3.229,
+    "prompt_tokens": 7,
+    "output_tokens": 681,
+    "total_tokens": 688,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "短_トークン",
+    "run": 1,
+    "elapsed_sec": 8.011,
+    "prompt_tokens": 10,
+    "output_tokens": 612,
+    "total_tokens": 622,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "短_トークン",
+    "run": 2,
+    "elapsed_sec": 7.538,
+    "prompt_tokens": 10,
+    "output_tokens": 749,
+    "total_tokens": 759,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "短_トークン",
+    "run": 3,
+    "elapsed_sec": 3.3,
+    "prompt_tokens": 10,
+    "output_tokens": 751,
+    "total_tokens": 761,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "長_RAG詳説",
+    "run": 1,
+    "elapsed_sec": 7.928,
+    "prompt_tokens": 46,
+    "output_tokens": 1331,
+    "total_tokens": 1377,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "長_RAG詳説",
+    "run": 2,
+    "elapsed_sec": 7.008,
+    "prompt_tokens": 46,
+    "output_tokens": 1491,
+    "total_tokens": 1537,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "長_RAG詳説",
+    "run": 3,
+    "elapsed_sec": 5.199,
+    "prompt_tokens": 46,
+    "output_tokens": 1326,
+    "total_tokens": 1372,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "長_Transformer",
+    "run": 1,
+    "elapsed_sec": 5.668,
+    "prompt_tokens": 44,
+    "output_tokens": 1536,
+    "total_tokens": 1580,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "長_Transformer",
+    "run": 2,
+    "elapsed_sec": 5.687,
+    "prompt_tokens": 44,
+    "output_tokens": 1377,
+    "total_tokens": 1421,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "question_label": "長_Transformer",
+    "run": 3,
+    "elapsed_sec": 5.536,
+    "prompt_tokens": 44,
+    "output_tokens": 1580,
+    "total_tokens": 1624,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "短_LoRA",
+    "run": 1,
+    "elapsed_sec": 2.73,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "短_LoRA",
+    "run": 2,
+    "elapsed_sec": 11.684,
+    "prompt_tokens": 7,
+    "output_tokens": 747,
+    "total_tokens": 1726,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "短_LoRA",
+    "run": 3,
+    "elapsed_sec": 11.094,
+    "prompt_tokens": 7,
+    "output_tokens": 744,
+    "total_tokens": 1737,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "短_トークン",
+    "run": 1,
+    "elapsed_sec": 12.129,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "短_トークン",
+    "run": 2,
+    "elapsed_sec": 7.479,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "短_トークン",
+    "run": 3,
+    "elapsed_sec": 12.731,
+    "prompt_tokens": 10,
+    "output_tokens": 867,
+    "total_tokens": 1911,
+    "error": null
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "長_RAG詳説",
+    "run": 1,
+    "elapsed_sec": 9.91,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "長_RAG詳説",
+    "run": 2,
+    "elapsed_sec": 3.804,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "長_RAG詳説",
+    "run": 3,
+    "elapsed_sec": 8.472,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "長_Transformer",
+    "run": 1,
+    "elapsed_sec": 0.329,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "レート制限に達しました。1分ほど待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "長_Transformer",
+    "run": 2,
+    "elapsed_sec": 0.322,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "レート制限に達しました。1分ほど待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "question_label": "長_Transformer",
+    "run": 3,
+    "elapsed_sec": 0.287,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "レート制限に達しました。1分ほど待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "短_LoRA",
+    "run": 1,
+    "elapsed_sec": 3.431,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "短_LoRA",
+    "run": 2,
+    "elapsed_sec": 0.93,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "短_LoRA",
+    "run": 3,
+    "elapsed_sec": 0.67,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "短_トークン",
+    "run": 1,
+    "elapsed_sec": 224.596,
+    "prompt_tokens": 10,
+    "output_tokens": 924,
+    "total_tokens": 2037,
+    "error": null
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "短_トークン",
+    "run": 2,
+    "elapsed_sec": 1.548,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "短_トークン",
+    "run": 3,
+    "elapsed_sec": 1.046,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "長_RAG詳説",
+    "run": 1,
+    "elapsed_sec": 16.229,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "長_RAG詳説",
+    "run": 2,
+    "elapsed_sec": 0.67,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "長_RAG詳説",
+    "run": 3,
+    "elapsed_sec": 1.393,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "長_Transformer",
+    "run": 1,
+    "elapsed_sec": 227.19,
+    "prompt_tokens": 44,
+    "output_tokens": 2021,
+    "total_tokens": 3420,
+    "error": null
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "長_Transformer",
+    "run": 2,
+    "elapsed_sec": 133.641,
+    "prompt_tokens": 44,
+    "output_tokens": 2065,
+    "total_tokens": 3363,
+    "error": null
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "question_label": "長_Transformer",
+    "run": 3,
+    "elapsed_sec": 10.92,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "total_tokens": null,
+    "error": "モデルが混み合っています（503）。少し待ってから再実行してください。"
+  }
+]
